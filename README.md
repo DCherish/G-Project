@@ -5,9 +5,9 @@
 * 서비스를 __AR(Augmented Reality, 증강현실)__ Application으로 제공  
   * 시각적인 서비스를 제공하기 때문에 직관적인 길찾기 서비스 이용 가능  
 ### 사용 Tool
-[X] Jupyter Notebook (Python)
-[X] TensorFlow
-[X] Eclipse
-[ ] Android Studio
-[X] Unity
-[X] SketchUp
+- [x] Jupyter Notebook (Python)
+- [x] TensorFlow
+- [x] Eclipse
+- [ ] Android Studio
+- [x] Unity
+- [x] SketchUp
