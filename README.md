@@ -19,3 +19,6 @@
 > **AR기술**을 양질의 서비스로 제공하기 위해 **Unity3D** Engine 및 **ARCore**을 활용  
 ### 프로젝트 BlockDiagram
 <img src="/image/BD.png" width="600px" height="300px" alt="BlockDiagram"></img><br/>
+> BLE Beacon의 무선 신호들을 Client에서 수신한 후 각 Beacon의 신호 강도를 Server로 송신
+> Server에서는 신호 강도의 값들을 Kalman Filter를 이용하여 안정화한 후 학습 모델을 통하여 위치 추정
+> 위치 좌표 값을 다시 Client로 송신하여 Client에서는 현재 위치 파악 및 길찾기 서비스 이용 가능
