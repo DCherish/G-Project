@@ -35,4 +35,4 @@
 > **수치예측**, 분류, 문자인식 혹은 이미지 트레이닝 같은 분야에서 **장점**이 있음  
 > But, 신경망이 **복잡**할수록 학습 시 많은 시간이 소요되며, 결과 해석이 어렵다는 **단점**이 있음
 ### 시연 영상
-> [Project-Final.mp4](/Project-Final.mp4)
+> [Project-Final.mp4](/Project-Final.mp4) 참고
