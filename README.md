@@ -9,8 +9,7 @@
 - [x] Jupyter Notebook (Python)
 - [x] TensorFlow
 - [x] Eclipse
-- [ ] Android Studio
-  * Unity 플랫폼에서 안드로이드의 접근권한들을 설정 및 Beacon 신호를 수신하기 위헌 Plugin 파일 생성
+- [x] Android Studio
 - [x] Unity
 - [x] SketchUp
 ### 프로젝트 소개 (간략)
