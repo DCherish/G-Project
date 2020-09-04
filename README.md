@@ -24,3 +24,4 @@
 > 위치 좌표 값을 다시 Client로 송신하여 Client에서는 현재 위치 파악 및 길찾기 서비스 이용 가능  
 ### 프로젝트 3D Model
 <img src="/image/D1.png" width="600px" height="300px" alt="BlockDiagram"></img><br/>
+> **SketchUp**이라는 Tool을 사용하여 실내 환경과 흡사하도록 3D Model을 제작
