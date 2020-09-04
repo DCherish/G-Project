@@ -26,10 +26,10 @@
 <img src="/image/D1.png" width="600px" height="300px" alt="BlockDiagram"></img><br/>
 > **SketchUp**이라는 Tool을 사용하여 실내 환경과 흡사하도록 3D Model을 제작
 ### Deep-Learning & Deep Neural Network
-<img src="/image/D2.png" width="600px" height="300px" alt="BlockDiagram"></img><br/>
+<img src="/image/D2.png" width="600px" height="400px" alt="BlockDiagram"></img><br/>
 > **Deep Learning**은 **Machine Learning**의 한 분야로, **인공신경망**을 기초로 하고 있음  
 > **인공신경망(Neural Network)** 이란 사람의 신경망 원리와 구조를 모방하여 만든 **기계학습 알고리즘**  
 > **입력층(Input Layer)**, **은닉층(Hidden Layer)**, **출력층(Output Layer)** 세 개의 계층으로 구성  
 > 은닉층이 **Deep**하고 **Wide**하다는 특성을 가지고 있는 **Deep Neural Network** 구조를 이용  
-> **수치예측**, 분류, 문자인식 혹은 이미지 트레이닝 같은 분야에서 장점
+> **수치예측**, 분류, 문자인식 혹은 이미지 트레이닝 같은 분야에서 장점  
 > But, 신경망이 **복잡**할수록 학습 시 많은 시간이 소요되며, 결과 해석이 어렵다는 단점이 있음
