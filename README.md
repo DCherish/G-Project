@@ -18,4 +18,4 @@
 > 실내 위치 측위의 **정확도**를 위하여 **Deep Learning**을 활용  
 > **AR기술**을 양질의 서비스로 제공하기 위해 **Unity3D** Engine 및 **ARCore**을 활용  
 ### 프로젝트 BlockDiagram
-![Alt text](/image/BD.png)
+<img src=/image/BD.png" width="500px" height="300px alt="BlockDiagram"></img><br/>
