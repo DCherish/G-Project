@@ -36,9 +36,12 @@
 > But, 신경망이 **복잡**할수록 학습 시 많은 시간이 소요되며, 결과 해석이 어렵다는 **단점**이 있음
 > > **code** 일부분  
 > > ```python  
+> > import tensorflow as tf  
 > > #중략···
 > > W1 = tf.get_variable("W1", shape=[4, 128], initializer=tf.contrib.layers.variance_scaling_initializer())  
 > > W2 = tf.get_variable("W2", shape=[128, 128], initializer=tf.contrib.layers.variance_scaling_initializer())  
+> > W3 = tf.get_variable("W3", shape=[128, 128], initializer=tf.contrib.layers.variance_scaling_initializer())  
+> > W4 = tf.get_variable("W4", shape=[128, 128], initializer=tf.contrib.layers.variance_scaling_initializer())  
 > > #중략···
 > > L1 = tf.nn.relu(tf.matmul(X, W1))  
 > > L1 = tf.nn.dropout(L1, keep_prob)  
