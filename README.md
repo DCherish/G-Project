@@ -34,6 +34,18 @@
 > 그 중, 은닉층이 **Deep**하고 **Wide**하다는 특성을 가지고 있는 **Deep Neural Network** 구조를 이용  
 > **수치예측**, 분류, 문자인식 혹은 이미지 트레이닝 같은 분야에서 **장점**이 있음  
 > But, 신경망이 **복잡**할수록 학습 시 많은 시간이 소요되며, 결과 해석이 어렵다는 **단점**이 있음
+> > **code** 일부분  
+> > ```python  
+> > #중략···
+> > W1 = tf.get_variable("W1", shape=[4, 128], initializer=tf.contrib.layers.variance_scaling_initializer())  
+> > W2 = tf.get_variable("W2", shape=[128, 128], initializer=tf.contrib.layers.variance_scaling_initializer())  
+> > #중략···
+> > L1 = tf.nn.relu(tf.matmul(X, W1))  
+> > L1 = tf.nn.dropout(L1, keep_prob)  
+> > L2 = tf.nn.relu(tf.matmul(L1, W2))  
+> > L2 = tf.nn.dropout(L2, keep_prob)
+> > #중략···
+> > ```  
 ### 시연 영상
 > [Project-Final.mp4](/Project-Final.mp4) 참고
 
