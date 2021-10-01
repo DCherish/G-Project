@@ -50,6 +50,6 @@
 > > #중략···
 > > ```  
 ### 시연 영상
-> [Project-Final.mp4](/Project-Final.mp4) 참고
+> [Project-Final-Youtube](https://www.youtube.com/watch?v=NvaQYQSHGWI) 참고
 
 
